@@ -4,8 +4,7 @@
 “	Heroku Supported Telegram Torrent Leeching Bot by Some Weebs ” 
 
 ## More features on [personal-tweak](https://github.com/lostb053/lazyleech/tree/personal-tweak) branch
-https://heroku.com/deploy?
-template=https://github.com/Cinichi/lazyleech
+https://heroku.com/deploy?template=https://github.com/Cinichi/lazyleech
 
 </p>
 
